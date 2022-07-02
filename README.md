@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm petitoff</h1>
+
 # 💫 About Me:
 - 🎓 Student of Opole University
 - 💼 Intern in codefusion
