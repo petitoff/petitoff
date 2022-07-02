@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-- 🎓 Student of Opole University
+- 🎓 Student at Opole University.
 - 💼 Intern in codefusion
 - 📈 Software and web developer
 - ❤️ AI and machine learning
