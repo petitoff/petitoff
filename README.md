@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm petitoff</h1>
+<!-- <h1 align="center">Hi 👋, I'm petitoff</h1> -->
+
+
+<p align="center"><a href="#"><img width="80%" alt="" src="logo.png" /></a></p>
+
 
 # 💫 About Me:
 - 🎓 Student of Opole University
