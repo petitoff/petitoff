@@ -3,7 +3,7 @@
 
 <!-- <p align="center"><a href="#"><img style="width: 25rem;" alt="" src="1.png" /></a></p> -->
 
-<p align="center"><img style="width: 25rem;" src="1.png"/></p>
+<p align="center"><img style="width: 25rem;" src="logo.png"/></p>
 
 
 # 💫 About Me:
