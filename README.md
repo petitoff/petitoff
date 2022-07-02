@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm petitoff</h1> -->
 
 
-<p align="center"><a href="#"><img width="80%" alt="" src="1.png" /></a></p>
+<p align="center"><a href="#"><img alt="" src="1.png" /></a></p>
 
 
 # 💫 About Me:
