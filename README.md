@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm petitoff</h1>
-<h3 align="center">Student of Opole University. Software and web developer</h3>
+<!--- <h3 align="center">Student of Opole University. Software and web developer.</h3 --->
+
+### About me
+- 🎓 Student of [Opole University](https://uni.opole.pl/en)
+- 💼 Intern in [codefusion](https://www.codefusion.pl/home-page/)
+- 📈 Software and web developer
+- ❤️ AI and machine learning
+
+<hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petitoff" alt="petitoff" /></a> </p>
 
